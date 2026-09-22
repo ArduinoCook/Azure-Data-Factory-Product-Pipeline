@@ -24,6 +24,11 @@ P03_Products.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQL Dat
 
 ![P03 Azure Resources](02-P03-ADF-Pipeline-Source.png)
 
+![P03 Azure Resources](03-P03-ADF-Pipeline-Sink.png)
+
+![P03 Azure Resources](04-P03-AzureSQL-ProductData.png)
+
+
 
 ## What I learned
 
@@ -37,4 +42,7 @@ P03_Products.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQL Dat
 
 ## Project files
 
-* [P02_Customer.csv](P02_Customers.csv)
+* [P03_Products.csv](P03_Products.csv)
+
+
+
