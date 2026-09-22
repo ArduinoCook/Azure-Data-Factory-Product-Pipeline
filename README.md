@@ -22,6 +22,7 @@ P03_Products.csv, -> Azure Blob Storage, -> Azure Data Factory, -> Azure SQL Dat
 
 ![P03 Azure Resources](01-P03-Azure-Resources.png)
 
+![P03 Azure Resources](02-P03-ADF-Pipeline-Source.png)
 
 
 ## What I learned
